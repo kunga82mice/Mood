@@ -1,0 +1,22 @@
+body {
+ text-align:center;   
+ font-family: 'Indie Flower', cursive;
+
+}
+
+img {
+ height:100px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:130px;
+}
+h1{
+    border:5px solid black;
+    
+}
+
+body{background:url("http://letsteachenglish.com/upload/emotion%20cards.doc_thumb.png");}
